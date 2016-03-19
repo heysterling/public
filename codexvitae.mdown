@@ -1,19 +1,25 @@
-# Codex Vitae (stolen from Buster)
+#codex vitae (idea and format stolen from @buster)
+
+*from @buster*
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression and capturing the meaning that we create in our lives. 
+
+Posts about this topic: [What would you write in your codex vitae](http://branch.com/b/what-would-you-write-in-your-codex-vitae).
 
 ## How to play
-
 1. **Every day:** In the morning, read Review Every Day
 2. **Every month:** On the 1st of every month, read Review Every Month
 3. **Every year:** On your birthday, read Review Every Year
 
-## Review Every Day
-Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage. 
+## Daily basic principles
+Things I'd like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage.
 
-1. **The soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
-2. **Anomalies:** Notice inconsistencies between what I expect to see and what I actually see. Resist the urge to move these anomalies into the trash bin. 
-3. **Quality time:** Always look for new ways to enjoy quality time with myself, other people, and my interests.
-4. **Levitas:** The opposite of gravitas. 
-5. **Lucidity:** This is happening.
+1. **Respect both your time and that of others:** Spend less time with people who say no and more with people who say yes.
+2. **Be open and don't hide from people:** Many people can tell what you're going to say before you finish a sentence. Be concise and look people in the eye. Use your words as a setup to allow the other person to say something meaningful to them.
+3. **Support other people:** Look at your actions as opportunities to help other people look good. Resistance makes you look bad; so does talking shit and complaining.
+4. **Wake up:** This moment will not happen again, but there are many more to come.
+5. **Be fearless, and decisive:** Fear is an artifact of evolution. We have very little need for it any more. Indecision is a byproduct of fear.
+6. **"I don't know":** It's a very strong character trait to say you don't know enough about the subject to have an opinion. It's also at odds with the way my peers live.
+7. **Say "I" less, and more "we" and "you" more:**
 
 ## Review Every Month 
 Things I’d like to check in on the 1st of every month.
@@ -21,14 +27,77 @@ Things I’d like to check in on the 1st of every month.
 1. Review my Favorite Ideas
 2. Review the Beliefs
 3. Review the Personal Canon
-4. Write a new Monthly Report and share
-5. Review/update this list and the Review Every Day list
+4. Review financial situation
+4. Review/update this list and the Daily Basic Principles list
 
 ## Review Every Year
-Things I've learned and want to remind myself of every year on my birthday (May 28).
+Things I've learned and want to remind myself of every year on my birthday (April 6).
 
 1. Snapshot this file and archive it as CodexYYYY.md
 2. Review my Monthly Reports from the year
 3. Review my Yearly Reports
 4. Write a new Yearly Review and share
 5. Review/update this list
+
+## Favorite ideas & problems
+1. *There are many, many more industries to "disrupt". Technology has provided a very few with a common language (apps, websites) to solve problems. How do you solve Concrete?*
+-----
+
+### Beliefs
+
+##Respect both your time and that of others
+Spend less time with people who say no and more with people who say yes.
+
+##Be open and don't hide from people
+Many people can tell what you're going to say before you finish a sentence. Be concise and look people in the eye. Use your words as a setup to allow the other person to say something meaningful to them.
+
+##Support other people 
+Look at your actions as opportunities to help other people look good. Resistance makes you look bad; so does talking shit and complaining.
+
+##Wake up, be fearless an decisive
+This moment will not happen again, but there are many more to come. Fear is an artifact of evolution. We have very little need for it any more. Indecision is a byproduct of fear.
+
+##"I don't know"
+ It's a very strong character trait to say you don't know enough about the subject to have an opinion. It's also at odds with the way my peers live.
+
+### Say "I" less, and more "we" and "you" more
+
+
+### Security and materialism
+1. Cash hidden away
+2. Nice sweaters
+
+### Wants
+1. A strong list of friends
+2. To visit a new country every year
+3. Spend three simultaneous days per quarter disconnected from the world
+4. 
+
+### Always
+1. Be thinking about how to help situations other say are unsolvable. Homelessness is a good example of this.
+
+### Good jokes
+*these are good jokes to have in your pocket* 
+
+### Good stories
+*These are the stories that can be told to entertain, enlighten or both*
+
+### Best albums this year
+1. Father John Misty's *I love you, Honeybear*
+
+### Things I'm not proud of
+1. Telling my dad in the truck that he looked homeless wearing a flannel shirt
+2. Have had so many girlfriends
+3. Doing that unspeakable thing when I was 13
+
+### Wagers
+No wagers yet.
+
+## Personal Canon
+*These are articles or posts I'm proud that I put in to the world.*
+
+### Links I use often
+1. [Designspiration](http://designspiration.net/)
+
+### Articles I've come back to a bunch of times
+* [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
